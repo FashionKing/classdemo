@@ -1,0 +1,16 @@
+*.iml
+.gradle
+/local.properties
+/.idea/workspace.xml
+/.idea/libraries
+/.idea
+/*.iml
+/*/*.iml
+.gradle/
+build/
+local.properties
+
+
+
+
+
